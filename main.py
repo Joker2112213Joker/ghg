@@ -11,6 +11,6 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__mairtytun__':
-    print_hi('Pyheliolo')
+    print_hi('Pyheliolssso')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
